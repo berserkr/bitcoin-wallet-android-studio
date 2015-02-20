@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-el/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-el/strings.xml -->
     <eat-comment/>
     <string name="about_credits_bitcoinj_title">Αυτή η εφαρμογή χρησιμοποιεί bitcoinj %s</string>
     <string name="about_credits_icon_title">Η εφαρμογή αυτή χρησιμοποιεί ένα εικονίδιο από τη \'bitboy\'</string>
@@ -29,7 +29,7 @@
     <string name="edit_address_book_entry_dialog_title_add">Προσθήκη διεύθυνσης</string>
     <string name="edit_address_book_entry_dialog_title_edit">Επεξεργασία διεύθυνσης</string>
     <string name="exchange_rates_fragment_empty_text">Δεν ήταν δυνατή η φόρτωση των συναλλαγματικών ισοτιμιών</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-el/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-el/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -127,7 +127,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-el/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-el/strings.xml -->
     <eat-comment/>
     <string name="notification_coins_received_msg">Ελήφθη %s</string>
     <string name="notification_peers_connected_msg">%d χρήστες συνδεμένοι</string>

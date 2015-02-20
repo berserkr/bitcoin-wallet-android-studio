@@ -23,4 +23,4 @@
 		android:layout_margin="8dp"
 		android:textSize="@dimen/font_size_normal" />
 
-</LinearLayout><!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/layout/bitmap_dialog.xml -->
+</LinearLayout><!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/layout/bitmap_dialog.xml -->

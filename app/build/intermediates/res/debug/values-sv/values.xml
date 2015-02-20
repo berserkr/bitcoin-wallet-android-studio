@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-sv/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-sv/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Diskussioner om appen</string>
     <string name="about_community_googleplus_title">Google+-community</string>
@@ -102,7 +102,7 @@
     <string name="export_keys_dialog_mail_text">Den bifogade krypterade filen innehåller privata bitcoinnycklar och bör förvaras säkert i alla lägen. Glöm inte krypteringslösenordet!</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>Din wallet har säkerhetskopierats till <tt>%s</tt></p><p>Om din enhet har uttagbart SD-kort, <i>bör</i> din säkerhetskopia vara på SD-kortet. Ta ut SD-koret och lägg det på en säker plats. Om SD-kortet <i>inte</i> uttagbart, måste du lagra din säkerhetskopia på någon annan plats än på din enhet.</p><p><b>Om enheten är den enda platsen säkerhetskopian finns på finns det en risk att du förlorar både enheten och säkerhetskopian samtidigt!</b></p><p>I alla fall, se till att du kommer ihåg ditt lösenord till din säkerhetskopia. Vill du arkivera din wallet nu?</p>]]></string>
     <string name="export_keys_dialog_title">Säkerhetskopiera wallet</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-sv/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-sv/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -204,7 +204,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-sv/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-sv/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Fel</string>
     <string name="import_export_keys_dialog_password">lösenord</string>

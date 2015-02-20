@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string-array name="preferences_precision_labels">
 		<item>BTC, 8位數</item>
@@ -9,7 +9,7 @@
 		<item>mBTC, 2位數</item>
 		<item>µBTC, 0位數</item>
 	</string-array>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">討論本 app</string>
     <string name="about_community_googleplus_title">Google+ 社群</string>
@@ -93,7 +93,7 @@
     <string name="export_keys_dialog_mail_text">附件加密檔案包含比特幣私人金鑰，請保持該檔案安全並記得你的密碼。</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>你的錢包已被備份到 <tt>%s</tt></p><p>如果你的裝置裡有可移除 SD 記憶卡，你的備份<i>應該</i>在卡裡面。移除該卡片並保管到安全地方。如果該卡片為<i>不可移除</i> ，你需要將該檔案歸檔取出到其他地方。</p><p><b>如果你只將備份放裝置裡面，你裝置遺失時一起遺失備份!</b></p><p>無論如何，請記得你的備份密碼，現在你確認要歸檔你的錢包 嗎？</p>]]></string>
     <string name="export_keys_dialog_title">備份錢包</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-zh-rTW/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-zh-rTW/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">\n<![CDATA[
 		<p>
@@ -174,7 +174,7 @@
 			你可以點選下方請款或付款，更多選項請點選options menu.
 		</p>
 	]]>\n\t</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">錯誤</string>
     <string name="import_export_keys_dialog_password">密碼</string>

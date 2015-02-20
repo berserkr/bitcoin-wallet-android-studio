@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Keskustelua ohjelmasta</string>
     <string name="about_community_googleplus_title">Google+-yhteisö</string>
@@ -102,7 +102,7 @@
     <string name="export_keys_dialog_mail_text">Liitetty salattu tiedosto sisältää bitcoiniesi salaisit avaimet ja ne on aina pidettävä turvassa. Älä unohda salauksen salasanaa!</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>Lompakkosi on varmuuskopioitu <tt>%s</tt></p><p>Jos laitteessasi on muistikortti, varmuuskopiosi <i>pitäisi</i> olla kyseisellä kortilla. Poista kortti laitteesta ja pidä sitä turvallisessa paikassa. Jos kortti <i>ei ole</i> irroitettava, sinun tulee arkistoida varmuuskopiosi johonkin toiseen paikkaan kuin tähän laitteeseen.</p><p><b>Jos ainoa paikka jossa varmuuskopiosi sijaitsee on laitteesi, sinulla on vaara menettää molemmat samaan aikaan!</b></p><p>Joka tapauksessa, varmista, että muistat varmuuskopiosi salasanan. Haluatko arkistoida lompakkosi nyt?</p>]]></string>
     <string name="export_keys_dialog_title">Varmuuskopioi lompakko</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-fi/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-fi/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -215,7 +215,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Virhe</string>
     <string name="import_export_keys_dialog_password">Salasana</string>

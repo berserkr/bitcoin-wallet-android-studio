@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-eo/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-eo/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Diskutoj pri l\'aplikaĵo</string>
     <string name="about_community_googleplus_title">\"Google+\" Komunumo</string>
@@ -71,7 +71,7 @@
     <string name="export_keys_dialog_mail_text">La kuna ĉifrita dosiero entenas Bitmonajn privatajn ŝlosilojn, kaj devus esti sekura ĉiam. Ne forgesu la ĉifradan pasvorton!</string>
     <string name="export_keys_dialog_success">Viaj privataj ŝlosiloj estas savkopiitaj ĝis\n\n%s\n\nKonservu ilin sekurajn, kaj konservu vian pasvorton sekuran!\n\nĈu vi volas arkivi viajn ŝlosilojn uzante aplikaĵo?</string>
     <string name="export_keys_dialog_title">Savkopi privatajn ŝlosilojn</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-eo/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-eo/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -183,7 +183,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-eo/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-eo/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Eraro</string>
     <string name="import_export_keys_dialog_password">pasvorto</string>

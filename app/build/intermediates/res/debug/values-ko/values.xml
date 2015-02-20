@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-ko/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-ko/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">이 앱에 대한 토론장</string>
     <string name="about_community_googleplus_title">Google+의 앱 커뮤니티</string>
@@ -85,7 +85,7 @@
     <string name="export_keys_dialog_mail_text">첨부된 암호 파일은 비트코인 개인키를 포함하고 있으므로 항상 안전한 곳에 보관되어야 합니다. 그리고 암호화된 패스워드를 절대로 잊지 마세요.</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>전자 지갑이 아래 위치에 백업됩니다. <tt>%s</tt></p><p>사용하시는 장치 기기가 이동식 SD 카드를 가지고 있다면 해당 카드에 저장됩니다. 전자 지갑 백업 후 SD 카드를 제거하고 안전한 장소에 보관하세요. 만약 SD 카드가 이동형이 아니라면 현재의 저장 장치보다는 이동 가능한 다른 곳에 백업을 수행하는 것이 좋습니다.</p><p><b>만약 SD 카드가 이 장치 기기의 유일한 백업 가능 장소라면 SD 카드 분실에 따른 전자 지갑의 분실 위험 또한 숙지하셔야 합니다.</b></p><p>백업할 때의 패스워드를 반드시 기억하고 있어야 추후 백업 파일을 이용할 수 있습니다. 지금 전자 지갑 백업을 수행하시겠습니까?</p>]]></string>
     <string name="export_keys_dialog_title">전자 지갑 백업</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-ko/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-ko/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -188,7 +188,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-ko/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-ko/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">오류</string>
     <string name="import_export_keys_dialog_password">패스워드</string>

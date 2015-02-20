@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-nb/values.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-nb/values.xml -->
     <eat-comment/>
     <string-array name="preferences_precision_labels">
 		<item>BTC, 8 desimaler</item>
@@ -9,7 +9,7 @@
 		<item>mBTC, 2 desimaler</item>
 		<item>µBTC, ingen desimaler</item>
 	</string-array>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-nb/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-nb/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Diskusjon om appen</string>
     <string name="about_community_googleplus_title">Google+ samfunnet</string>
@@ -111,7 +111,7 @@
     <string name="export_keys_dialog_mail_text">Den vedlagte krypterte filen inneholder private Bitcoin-nøkler og bør til enhver tid oppbevares sikkert. Glem ikke krypteringspassordet!</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>Din lommebok er blitt sikkerhetskopieret til <tt>%s</tt></p><p>Hvis din enhet har et SD-kort, som kan fjernes, <i>burde</i> sikkerhetskopien være på det kortet. Fjern det og behold det et sikkert sted. Hvis kortet <i>ikke</i> kan fjernes, er du nødt til å arkivere sin sikkerhetskopi et annet sted enn på din enhet.</p><p><b>Hvis din sikkerhetskopi kun finnes på din enhet, løper du risikoen å miste begge deler på samme tid!</b></p><p>Uansett hva, så vær sikker på at du kan huske ditt passord til sikkerhetskopien. Vil du arkivere din lommebok nå?</p>]]></string>
     <string name="export_keys_dialog_title">Ta sikkerhetskopi av lommeboken</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-nb/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-nb/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -218,7 +218,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-nb/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-nb/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Feil</string>
     <string name="import_export_keys_dialog_password">passord</string>

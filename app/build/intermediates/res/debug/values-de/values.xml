@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-de/values.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-de/values.xml -->
     <eat-comment/>
     <string-array name="preferences_precision_labels">
 		<item>BTC, 8 Dezimalen</item>
@@ -9,7 +9,7 @@
 		<item>mBTC, 2 Dezimalen</item>
 		<item>µBTC, keine Dezimalen</item>
 	</string-array>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-de/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-de/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Diskussionen über die App</string>
     <string name="about_community_googleplus_title">Google+ Community</string>
@@ -112,7 +112,7 @@
     <string name="export_keys_dialog_title">Wallet sichern</string>
     <string name="extended_public_key_fragment_share">Xpub teilen…</string>
     <string name="extended_public_key_fragment_title">Extended Public Key</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-de/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-de/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -219,7 +219,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-de/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-de/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Fehler</string>
     <string name="import_export_keys_dialog_password">Passwort</string>

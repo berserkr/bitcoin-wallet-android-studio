@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/values.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/values.xml -->
     <eat-comment/>
     <string-array name="preferences_precision_labels">
 		<item>BTC, 8 digits</item>
@@ -16,7 +16,7 @@
 		<item>2/3</item>
 		<item>0/6</item>
 	</string-array>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="bg_bright">#ffffffff</color>
     <color name="bg_dialog_title">@android:color/transparent</color>
@@ -37,7 +37,7 @@
     <color name="scan_mask">#60000000</color>
     <color name="scan_result_dots">#c099cc00</color>
     <color name="scan_result_view">#b0000000</color>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="bitmap_dialog_qr_size">256dp</dimen>
     <dimen name="divider_currency_padding">0dp</dimen>
@@ -54,10 +54,10 @@
     <dimen name="request_coins_qr_size">128dp</dimen>
     <dimen name="symbol_size_normal">14sp</dimen>
     <dimen name="wallet_address_qr_size">80dp</dimen>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/ids.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/ids.xml -->
     <eat-comment/>
     <item name="action_bar_fragment" type="id"/>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Discussions about the app</string>
     <string name="about_community_googleplus_title">Google+ community</string>
@@ -88,10 +88,10 @@
     <string name="address_book_options_scan_title">Scan address</string>
     <string name="address_book_row_message_compromised_key">This address might be compromised. You should not use it any more for receiving coins.</string>
     <string name="address_unlabeled">(unlabeled)</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/values.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/values.xml -->
     <eat-comment/>
     <string name="app_name">Testnet3</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="backup_wallet_dialog_message">Your backup will be encrypted with the chosen password and written to external storage.</string>
     <string name="backup_wallet_dialog_warning_encrypted">Your wallet is protected by a spending PIN. Make sure you remember the PIN in addition to the backup password!</string>
@@ -166,7 +166,7 @@
     <string name="export_keys_dialog_title">Back up wallet</string>
     <string name="extended_public_key_fragment_share">Share xpub…</string>
     <string name="extended_public_key_fragment_title">Extended Public Key</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -273,7 +273,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Error</string>
     <string name="import_export_keys_dialog_password">password</string>
@@ -412,12 +412,12 @@
     <string name="sweep_wallet_fragment_request_wallet_balance_progress">Loading balance…</string>
     <string name="sweep_wallet_fragment_wallet_unknown">Start by scanning the private key of a paper wallet. Use the camera action button.</string>
     <string name="sweep_wallet_options_reload">Reload balance</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/values.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/values.xml -->
     <eat-comment/>
     <string name="symbol_from">←</string>
     <string name="symbol_internal">⇄</string>
     <string name="symbol_to">→</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="time_today">today</string>
     <string name="toast_wallet_reset">Your wallet was reset!\nIt will take some time to recover.</string>
@@ -461,7 +461,7 @@
     <string name="wallet_version_dialog_msg">This version fixes important bugs. For details, see the change log on Google Play.</string>
     <string name="wallet_version_dialog_msg_deprecated">If you don\'t see an update, this probably means your version of Android isn\'t supported any more.</string>
     <string name="wallet_version_dialog_title">A new version is available!</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="My.TextAppearance.Widget.ActionBar.Subtitle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
 		<item name="android:textColor">@android:color/white</item>

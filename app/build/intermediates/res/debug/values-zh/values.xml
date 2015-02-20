@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-zh/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-zh/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">有关此应用程序的讨论</string>
     <string name="about_community_googleplus_title">Google+ 社区</string>
@@ -102,7 +102,7 @@
     <string name="export_keys_dialog_mail_text">附件中的已加密文件中包含有比特币的私钥，您应该在任何时候都将其存放在安全的地方。请不要忘记您的加密密码！</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>您的钱包已经被备份到 <tt>%s</tt></p><p>如果您的设备上有SD卡，备份文件<i>应该</i>是在该卡上。请将该备份文件转移到安全的地方并将SD卡上的该备份文件删除。如果您的卡<i>不是</i>可移动的，你需要将其归档备份到其它地方，而不是您的设备上。</p><p><b>如果只把您的备份存放在是您的设备上，您将承担着两者同时丢失的风险！</b></p><p>在任何情况下，请一定要记住您的备份密码。是否要现在归档您的钱包？</p>]]></string>
     <string name="export_keys_dialog_title">备份钱包</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-zh/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-zh/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -210,7 +210,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-zh/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-zh/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">错误</string>
     <string name="import_export_keys_dialog_password">密码</string>

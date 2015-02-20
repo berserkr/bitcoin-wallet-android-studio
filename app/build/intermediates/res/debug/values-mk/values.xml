@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-mk/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-mk/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Дискусија за апликацијата</string>
     <string name="about_community_googleplus_title">Google+ заедница</string>
@@ -71,7 +71,7 @@
     <string name="export_keys_dialog_mail_text">Прикачениот шифриран фајл содржи приватни клучеви и треба да се чува на сигурно место. Не ја заборавај шифрираната лозинка!</string>
     <string name="export_keys_dialog_success">Твоите приватни клучеви имаат резервна копија во\n\n%s\n\nЧувај ги на безбедно место и чувај ја твојата лозинка тајна!\n\nДали сакаш да ги архивираш твоите клучеви преку апликација?</string>
     <string name="export_keys_dialog_title">Направи резервна копија од приватните клучеви</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-mk/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-mk/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -183,7 +183,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-mk/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-mk/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Грешка</string>
     <string name="import_export_keys_dialog_password">лозинка</string>

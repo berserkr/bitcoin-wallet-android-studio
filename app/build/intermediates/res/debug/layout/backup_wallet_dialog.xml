@@ -61,4 +61,4 @@
 			android:textSize="@dimen/font_size_small" />
 	</LinearLayout>
 
-</ScrollView><!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/layout/backup_wallet_dialog.xml -->
+</ScrollView><!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/layout/backup_wallet_dialog.xml -->

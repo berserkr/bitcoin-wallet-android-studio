@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-fr/values.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-fr/values.xml -->
     <eat-comment/>
     <string-array name="preferences_precision_labels">
 		<item>BTC, 8 décimales</item>
@@ -9,7 +9,7 @@
 		<item>mBTC, 2 décimales</item>
 		<item>µBTC, 0 décimale</item>
 	</string-array>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-fr/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-fr/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Discussions à propos de cette appli</string>
     <string name="about_community_googleplus_title">Communauté Google+</string>
@@ -111,7 +111,7 @@
     <string name="export_keys_dialog_mail_text">Le fichier chiffré attaché contient les clefs privées bitcoin et doit être gardé en lieu sûr en tout temps. N\'oubliez pas le mot de passe de chiffrement !</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>Votre portefeuille a été sauvegardé vers <tt>%s</tt></p><p>Si votre appareil a une carte SD amovible, votre sauvegarde <i>devrait</i> être sur cette carte. Enlevez-la et conservez-la dans un endroit sûr. Si la carte n\'est <i>pas</i> amovible, vous devez archiver votre sauvegarde dans un endroit autre que votre appareil.</p><p><b>Si votre sauvegarde existe seulement sur votre appareil, vous courez le risque de perdre les deux en même temps !</b></p><p>Dans tous les cas, assurez-vous de vous souvenir du mot de passe de votre sauvegarde. Voulez-vous archiver votre portefeuille maintenant ?</p>]]></string>
     <string name="export_keys_dialog_title">Sauvegarder le portefeuille</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-fr/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-fr/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -217,7 +217,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-fr/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-fr/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Erreur</string>
     <string name="import_export_keys_dialog_password">mot de passe</string>

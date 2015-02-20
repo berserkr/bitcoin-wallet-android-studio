@@ -73,4 +73,4 @@
 		android:showAsAction="never"
 		android:title="@string/button_help"/>
 
-</menu><!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/menu/wallet_options.xml -->
+</menu><!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/menu/wallet_options.xml -->

@@ -31,4 +31,4 @@
 		android:title="@string/address_book_context_copy_to_clipboard_title"
 		android:titleCondensed="@string/button_copy"/>
 
-</menu><!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/menu/sending_addresses_context.xml -->
+</menu><!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/menu/sending_addresses_context.xml -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Обговорення додатка</string>
     <string name="about_community_googleplus_title">Спільнота в Google+</string>
@@ -84,7 +84,7 @@
     <string name="export_keys_dialog_mail_text">Доданий зашифрований файл містить приватні ключі Bitcoin, він повинен завжди зберігатися в безпеці. Не забудьте пароль шифрування!</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>Створена резервна копія гаманця <tt>%s</tt></p><p>Якщо ваш пристрій має зовнішню SD-карту, резервна копія <i>повинна</i> бути на цій карті. Вилучте її і зберігайте в безпечному місці. Якщо ваш пристрій <i>не підтримує</i> зовнішню SD-карту, то ви повинні зберігати резервну копію в іншому місці, а не на вашому пристрої.</p><p><b>Якщо ваш пристрій це єдине місце де зберігається резервна копія, то ви ризикуєте втрати гаманець, втративши пристрій!</b></p><p>В будь якому випадку, впевніться, що ви пам\'ятаєте пароль від резервної копії. Ви хочете архівувати ваш гаманець зараз?</p>]]></string>
     <string name="export_keys_dialog_title">Резервна копія гаманця</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-uk/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-uk/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -188,7 +188,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Помилка</string>
     <string name="import_export_keys_dialog_password">пароль</string>

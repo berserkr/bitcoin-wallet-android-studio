@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-iw/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-iw/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">דיונים על אודות האפליקציה</string>
     <string name="about_community_googleplus_title">קהילת גוגל+</string>
@@ -77,7 +77,7 @@
     <string name="export_keys_dialog_mail_text">הקובץ המצורף מכיל את המפתח הפרטיים של ארנק הביטקוין שלך וצריך להשמר בצורה מאובטחת בכל עת. אל תשכח את ססמאת ההצפנה שלך!</string>
     <string name="export_keys_dialog_success">המפתחות שלך יוצאו ל\n\n%s\n\nשמור עליהם בבטחה, ושמור על הססמא בטוחה!\n\nהאם אתה רוצה לארכב את המפתחות באמצעות אפליקציה?</string>
     <string name="export_keys_dialog_title">ייצא מפתחות פרטיים</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-iw/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-iw/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -189,7 +189,7 @@
 		</p>
 ]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-iw/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-iw/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">שגיאה</string>
     <string name="import_export_keys_dialog_password">סיסמא</string>

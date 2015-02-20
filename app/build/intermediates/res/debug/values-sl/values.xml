@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-sl/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-sl/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Razprave o aplikaciji</string>
     <string name="about_community_googleplus_title">Skupnost na Google+</string>
@@ -77,7 +77,7 @@
     <string name="export_keys_dialog_mail_text">Pripeta šifrirana datoteka vsebuje zasebne ključe za bitcoin, zato jo morate vedno varno hraniti. Ne pozabite gesla, s katerim je bila datoteka šifrirana!</string>
     <string name="export_keys_dialog_success">Vaši zasebni ključi so bili rezervno kopirani v datoteko:\n\n%s\n\nVarno jih hranite in pazite na geslo!\n\nŽelite rezervno kopijo arhivirati z drugo aplikacijo?</string>
     <string name="export_keys_dialog_title">Rezervno kopiranje zasebnih ključev</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-sl/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-sl/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -183,7 +183,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-sl/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-sl/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Napaka</string>
     <string name="import_export_keys_dialog_password">geslo</string>

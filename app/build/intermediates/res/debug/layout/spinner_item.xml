@@ -6,4 +6,4 @@
 	android:paddingLeft="4dp"
 	android:paddingRight="4dp"
 	android:textSize="@dimen/font_size_normal" />
-<!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/layout/spinner_item.xml -->
+<!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/layout/spinner_item.xml -->

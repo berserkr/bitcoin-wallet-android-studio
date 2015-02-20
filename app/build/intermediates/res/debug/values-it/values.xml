@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-it/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-it/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Discussioni sull\'app</string>
     <string name="about_community_googleplus_title">Comunità Google+</string>
@@ -102,7 +102,7 @@
     <string name="export_keys_dialog_mail_text">Il file cifrato allegato contiene chiavi private Bitcoin e dovrebbe essere mantenuto sicuro in ogni momento. Non dimenticarti la password per la crittografia!</string>
     <string name="export_keys_dialog_success">Le tue chiavi private sono state salvate con un backup a\n\n%s\n\nMantienile sicure, e mantieni sicura anche la tua password!\n\nVuoi archiviare le tue chiavi usando un\'app?</string>
     <string name="export_keys_dialog_title">Backup portafoglio</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-it/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-it/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -211,7 +211,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-it/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-it/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Errore</string>
     <string name="import_export_keys_dialog_password">password</string>

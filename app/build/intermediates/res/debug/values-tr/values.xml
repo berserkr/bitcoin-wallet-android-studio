@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Uygulama hakkında tartışmalar</string>
     <string name="about_community_googleplus_title">Google+ topluluğu</string>
@@ -102,7 +102,7 @@
     <string name="export_keys_dialog_mail_text">Eklenen şifreli dosya Bitcoin özel anahtarlarını içermektedir ve güvenli bir yerde saklanmalıdır. Şifreleme parolanızı unutmayınız!</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>Cüzdanınız <tt>%s</tt> konumunda yedeklendi.</p><p>Eğer cihazınızın çıkarılabilir SD kartı varsa, yedeklemenizin o kartta olması <i>gerekir</i>. Onu çıkarıp güvenli bir yerde saklayın. Eğer kart çıkarılabilir <i>değilse</i>, yedeklemenizi cihazınızın dışında başka bir yere arşivlemeniz gerekir.</p><p><b>Yedeklemenizin bulunduğu tek yer cihazınız ise hem cihazı hem de yedeklemeyi aynı zamanda kaybetme riskini almış olursunuz!</b></p><p>Her durumda yedekleme parolanızı hatırlayacağınızdan emin olunuz. Cüzdanınızı şimdi arşivlemek istiyor musunuz?</p>]]></string>
     <string name="export_keys_dialog_title">Cüzdanı yedekle</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-tr/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-tr/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -204,7 +204,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Hata</string>
     <string name="import_export_keys_dialog_password">parola</string>

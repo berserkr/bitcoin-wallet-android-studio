@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-es/values.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-es/values.xml -->
     <eat-comment/>
     <string-array name="preferences_precision_labels">
 		<item>BTC, 8 dígitos</item>
@@ -9,7 +9,7 @@
 		<item>mBTC, 2 dígitos</item>
 		<item>µBTC, sin dígitos</item>
 	</string-array>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-es/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-es/strings.xml -->
     <eat-comment/>
     <string name="about_community_googleplus_summary">Discusiones sobre la aplicación</string>
     <string name="about_community_googleplus_title">Comunidad Google+</string>
@@ -111,7 +111,7 @@
     <string name="export_keys_dialog_mail_text">El archivo encriptado adjunto contiene claves privadas Bitcoin y ha de mantenerse seguro en todo momento. ¡Nunca olvides la contraseña de encriptado!</string>
     <string name="export_keys_dialog_success"><![CDATA[<p>Su cartera ha sido copiada en <tt>%s</tt></p><p>Si su dispositivo tiene una tarjeta SD, la copia <i>debería</i> estar ahí. Extráigala y manténgala en un sitio seguro. Si la tarjeta <i>no</i> es extraíble, necesita guardar la copia en otro lugar distinto a su dispositivo.</p><p><b>Si el único sitio en el que existe una copia es en su dispositivo, ¡corre el riesgo de perder las dos al mismo tiempo!</b></p><p>En cualquier caso, asegúrese de recordar la contraseña de la copia. ¿Desea guardar su cartera ahora?</p>]]></string>
     <string name="export_keys_dialog_title">Hacer copia de seguridad de la cartera</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-es/strings_help.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-es/strings_help.xml -->
     <eat-comment/>
     <string name="help_request_coins">
 <![CDATA[
@@ -213,7 +213,7 @@
 		</p>
 	]]>
 	</string>
-    <!-- From: file:/Users/kj/Projects/bitcoin/wallet1/app/src/main/res/values-es/strings.xml -->
+    <!-- From: file:/Users/bryanvu/AndroidStudioProjects/bitcoin-wallet-android-studio/app/src/main/res/values-es/strings.xml -->
     <eat-comment/>
     <string name="import_export_keys_dialog_failure_title">Error</string>
     <string name="import_export_keys_dialog_password">Contraseña</string>
