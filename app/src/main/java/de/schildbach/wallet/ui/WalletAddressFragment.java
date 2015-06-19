@@ -17,6 +17,7 @@
 
 package de.schildbach.wallet.ui;
 
+import java.util.List;
 import java.util.concurrent.RejectedExecutionException;
 import java.util.concurrent.atomic.AtomicReference;
 
@@ -25,6 +26,7 @@ import javax.annotation.Nonnull;
 
 import org.bitcoinj.core.Address;
 import org.bitcoinj.core.Wallet;
+import org.bitcoinj.script.Script;
 import org.bitcoinj.uri.BitcoinURI;
 import org.bitcoinj.utils.Threading;
 import org.slf4j.Logger;
@@ -207,6 +209,13 @@ public final class WalletAddressFragment extends Fragment implements NfcAdapter.
 			{
 				safeForceLoad();
 			}
+
+            @Override
+            public void onScriptsChanged(final Wallet wallet, final List<Script> scripts, final boolean changed)
+            {
+                // dummy code
+            }
+
 		};
 
 		private final BroadcastReceiver walletChangeReceiver = new BroadcastReceiver()

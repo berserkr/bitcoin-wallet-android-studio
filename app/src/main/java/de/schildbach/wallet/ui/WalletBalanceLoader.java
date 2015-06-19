@@ -17,6 +17,7 @@
 
 package de.schildbach.wallet.ui;
 
+import java.util.List;
 import java.util.concurrent.RejectedExecutionException;
 
 import javax.annotation.Nonnull;
@@ -24,6 +25,7 @@ import javax.annotation.Nonnull;
 import org.bitcoinj.core.Coin;
 import org.bitcoinj.core.Wallet;
 import org.bitcoinj.core.Wallet.BalanceType;
+import org.bitcoinj.script.Script;
 import org.bitcoinj.utils.Threading;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -99,6 +101,12 @@ public final class WalletBalanceLoader extends AsyncTaskLoader<Coin>
 		{
 			safeForceLoad();
 		}
+
+        @Override
+        public void onScriptsChanged(final Wallet wallet, final List<Script> scripts, final boolean changed)
+        {
+            // dummy code
+        }
 	};
 
 	private final BroadcastReceiver walletChangeReceiver = new BroadcastReceiver()

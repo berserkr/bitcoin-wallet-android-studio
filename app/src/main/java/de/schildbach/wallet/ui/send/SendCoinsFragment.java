@@ -338,7 +338,7 @@ public final class SendCoinsFragment extends Fragment
 	private final TransactionConfidence.Listener sentTransactionConfidenceListener = new TransactionConfidence.Listener()
 	{
 		@Override
-		public void onConfidenceChanged(final Transaction tx, final TransactionConfidence.Listener.ChangeReason reason)
+		public void onConfidenceChanged(final TransactionConfidence conf, final TransactionConfidence.Listener.ChangeReason reason)
 		{
 			activity.runOnUiThread(new Runnable()
 			{
@@ -530,6 +530,8 @@ public final class SendCoinsFragment extends Fragment
 				final NdefMessage ndefMessage = (NdefMessage) intent.getParcelableArrayExtra(NfcAdapter.EXTRA_NDEF_MESSAGES)[0];
 				final byte[] ndefMessagePayload = Nfc.extractMimePayload(PaymentProtocol.MIMETYPE_PAYMENTREQUEST, ndefMessage);
 				initStateFromPaymentRequest(mimeType, ndefMessagePayload);
+
+                log.debug("******* Got PaymentRequest *******");
 			}
 			else if ((Intent.ACTION_VIEW.equals(action)) && PaymentProtocol.MIMETYPE_PAYMENTREQUEST.equals(mimeType))
 			{
@@ -541,6 +543,8 @@ public final class SendCoinsFragment extends Fragment
 					initStateFromPaymentRequest(mimeType, paymentRequest);
 				else
 					throw new IllegalArgumentException();
+
+                log.debug("******* Got PaymentRequest *******");
 			}
 			else if (intent.hasExtra(SendCoinsActivity.INTENT_EXTRA_PAYMENT_INTENT))
 			{

@@ -30,6 +30,7 @@ import javax.annotation.CheckForNull;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
+
 import org.bitcoinj.core.Address;
 import org.bitcoinj.core.Coin;
 import org.bitcoinj.core.ScriptException;
@@ -37,6 +38,7 @@ import org.bitcoinj.core.Transaction;
 import org.bitcoinj.core.Transaction.Purpose;
 import org.bitcoinj.core.TransactionConfidence.ConfidenceType;
 import org.bitcoinj.core.Wallet;
+import org.bitcoinj.script.Script;
 import org.bitcoinj.utils.Threading;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -355,6 +357,12 @@ public class TransactionsListFragment extends FancyListFragment implements Loade
 		{
 			adapter.notifyDataSetChanged();
 		}
+
+        @Override
+        public void onScriptsChanged(final Wallet wallet, final List<Script> scripts, final boolean changed)
+        {
+            // dummy code
+        }
 	};
 
 	private static class TransactionsLoader extends AsyncTaskLoader<List<Transaction>>
@@ -433,6 +441,12 @@ public class TransactionsListFragment extends FancyListFragment implements Loade
 			{
 				safeForceLoad();
 			}
+
+            @Override
+            public void onScriptsChanged(final Wallet wallet, final List<Script> scripts, final boolean changed)
+            {
+                // dummy code
+            }
 		};
 
 		private final BroadcastReceiver walletChangeReceiver = new BroadcastReceiver()

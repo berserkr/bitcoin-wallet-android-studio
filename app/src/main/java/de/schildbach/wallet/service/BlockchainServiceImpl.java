@@ -51,6 +51,7 @@ import org.bitcoinj.core.StoredBlock;
 import org.bitcoinj.core.Transaction;
 import org.bitcoinj.core.TransactionConfidence.ConfidenceType;
 import org.bitcoinj.core.Wallet;
+import org.bitcoinj.script.Script;
 import org.bitcoinj.core.WalletEventListener;
 import org.bitcoinj.net.discovery.DnsDiscovery;
 import org.bitcoinj.net.discovery.PeerDiscovery;
@@ -174,6 +175,12 @@ public class BlockchainServiceImpl extends android.app.Service implements Blockc
 		{
 			transactionsReceived.incrementAndGet();
 		}
+
+        @Override
+        public void onScriptsChanged(final Wallet wallet, final List<Script> scripts, final boolean changed)
+        {
+            // dummy code
+        }
 	};
 
 	private void notifyCoinsReceived(@Nullable final Address from, @Nonnull final Coin amount)
